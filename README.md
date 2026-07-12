@@ -2,6 +2,8 @@
 
 This project demonstrates an end-to-end workflow for detecting objects in images, categorizing them, and refining results using Non-Maximum Suppression (NMS). It is designed to work with model-generated detection data (such as outputs from Gemini 2.0/2.5 Flash) and visualize the results using standard Python libraries.
 
+<img width="1237" height="833" alt="Screenshot 2026-02-28 193147" src="https://github.com/user-attachments/assets/c847fe5d-19d1-4aa5-9db6-cf9f3e71e86d" />
+
 **Features**
 Dynamic visualization that draws bounding boxes and labels on images using OpenCV
 Smart categorization of detected objects into groups such as Electronics, Furniture, and Decor, with distinct color coding
